@@ -1,5 +1,6 @@
 /*-----------------------------------------------------------
 	Furnace addons = quentid[FR]
+	Addons based to mdl / entities by KoZ's : Food Mod.
 
 	Copyright © 2015 quentid[FR] (Quentin Derpion)
 	All Rights Reserved

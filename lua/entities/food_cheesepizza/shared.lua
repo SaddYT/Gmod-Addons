@@ -1,3 +1,9 @@
+--[[
+	Food Mod Base v2
+	
+	Author: KoZ
+	Profile: http://steamcommunity.com/id/drunkenkoz
+]]--
 ENT.Type = "anim"
 ENT.Base = "food_base"
 
